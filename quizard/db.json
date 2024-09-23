@@ -1,0 +1,410 @@
+{
+    "quizzes": [
+        {
+            "id": 1,
+            "title": "Polynomials Quiz 1",
+            "description": "Answer these simple questions correctly and earn coins.",
+            "difficultyLevel": "Medium",
+            "questions": [
+                {
+                    "questionText": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Text Makeup Language",
+                        "Hyper Text Markup Language",
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "Which HTML element is used to define important text?",
+                    "options": [
+                        "<b>",
+                        "<i>",
+                        "<strong>",
+                        "<em>"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "questionText": "Which property is used to change the background color in CSS?",
+                    "options": [
+                        "background",
+                        "bgcolor",
+                        "color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "questionText": "Which CSS property is used to change the text color of an element?",
+                    "options": [
+                        "font-color",
+                        "color",
+                        "text-color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "How do you make text bold in HTML?",
+                    "options": [
+                        "<b>",
+                        "<bold>",
+                        "<strong>",
+                        "<heavy>"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Polynomials Quiz 1",
+            "description": "Answer these simple questions correctly and earn coins.",
+            "difficultyLevel": "Medium",
+            "questions": [
+                {
+                    "questionText": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Text Makeup Language",
+                        "Hyper Text Markup Language",
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "Which HTML element is used to define important text?",
+                    "options": [
+                        "<b>",
+                        "<i>",
+                        "<strong>",
+                        "<em>"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "questionText": "Which property is used to change the background color in CSS?",
+                    "options": [
+                        "background",
+                        "bgcolor",
+                        "color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "questionText": "Which CSS property is used to change the text color of an element?",
+                    "options": [
+                        "font-color",
+                        "color",
+                        "text-color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "How do you make text bold in HTML?",
+                    "options": [
+                        "<b>",
+                        "<bold>",
+                        "<strong>",
+                        "<heavy>"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Polynomials Quiz 1",
+            "description": "Answer these simple questions correctly and earn coins.",
+            "difficultyLevel": "Medium",
+            "questions": [
+                {
+                    "questionText": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Text Makeup Language",
+                        "Hyper Text Markup Language",
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "Which HTML element is used to define important text?",
+                    "options": [
+                        "<b>",
+                        "<i>",
+                        "<strong>",
+                        "<em>"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "questionText": "Which property is used to change the background color in CSS?",
+                    "options": [
+                        "background",
+                        "bgcolor",
+                        "color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "questionText": "Which CSS property is used to change the text color of an element?",
+                    "options": [
+                        "font-color",
+                        "color",
+                        "text-color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "How do you make text bold in HTML?",
+                    "options": [
+                        "<b>",
+                        "<bold>",
+                        "<strong>",
+                        "<heavy>"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Polynomials Quiz 1",
+            "description": "Answer these simple questions correctly and earn coins.",
+            "difficultyLevel": "Medium",
+            "questions": [
+                {
+                    "questionText": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Text Makeup Language",
+                        "Hyper Text Markup Language",
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "Which HTML element is used to define important text?",
+                    "options": [
+                        "<b>",
+                        "<i>",
+                        "<strong>",
+                        "<em>"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "questionText": "Which property is used to change the background color in CSS?",
+                    "options": [
+                        "background",
+                        "bgcolor",
+                        "color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "questionText": "Which CSS property is used to change the text color of an element?",
+                    "options": [
+                        "font-color",
+                        "color",
+                        "text-color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "How do you make text bold in HTML?",
+                    "options": [
+                        "<b>",
+                        "<bold>",
+                        "<strong>",
+                        "<heavy>"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Polynomials Quiz 1",
+            "description": "Answer these simple questions correctly and earn coins.",
+            "difficultyLevel": "Medium",
+            "questions": [
+                {
+                    "questionText": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Text Makeup Language",
+                        "Hyper Text Markup Language",
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "Which HTML element is used to define important text?",
+                    "options": [
+                        "<b>",
+                        "<i>",
+                        "<strong>",
+                        "<em>"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "questionText": "Which property is used to change the background color in CSS?",
+                    "options": [
+                        "background",
+                        "bgcolor",
+                        "color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "questionText": "Which CSS property is used to change the text color of an element?",
+                    "options": [
+                        "font-color",
+                        "color",
+                        "text-color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "How do you make text bold in HTML?",
+                    "options": [
+                        "<b>",
+                        "<bold>",
+                        "<strong>",
+                        "<heavy>"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Polynomials Quiz 1",
+            "description": "Answer these simple questions correctly and earn coins.",
+            "difficultyLevel": "Medium",
+            "questions": [
+                {
+                    "questionText": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Text Makeup Language",
+                        "Hyper Text Markup Language",
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "Which HTML element is used to define important text?",
+                    "options": [
+                        "<b>",
+                        "<i>",
+                        "<strong>",
+                        "<em>"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "questionText": "Which property is used to change the background color in CSS?",
+                    "options": [
+                        "background",
+                        "bgcolor",
+                        "color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "questionText": "Which CSS property is used to change the text color of an element?",
+                    "options": [
+                        "font-color",
+                        "color",
+                        "text-color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "How do you make text bold in HTML?",
+                    "options": [
+                        "<b>",
+                        "<bold>",
+                        "<strong>",
+                        "<heavy>"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Polynomials Quiz 6",
+            "description": "Answer these simple questions correctly and earn coins.",
+            "difficultyLevel": "Medium",
+            "questions": [
+                {
+                    "questionText": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Text Makeup Language",
+                        "Hyper Text Markup Language",
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "Which HTML element is used to define important text?",
+                    "options": [
+                        "<b>",
+                        "<i>",
+                        "<strong>",
+                        "<em>"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "questionText": "Which property is used to change the background color in CSS?",
+                    "options": [
+                        "background",
+                        "bgcolor",
+                        "color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "questionText": "Which CSS property is used to change the text color of an element?",
+                    "options": [
+                        "font-color",
+                        "color",
+                        "text-color",
+                        "background-color"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "questionText": "How do you make text bold in HTML?",
+                    "options": [
+                        "<b>",
+                        "<bold>",
+                        "<strong>",
+                        "<heavy>"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        }
+    ]
+}
