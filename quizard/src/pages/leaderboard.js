@@ -51,7 +51,7 @@ export default function Leaderboard() {
                     {/* 3rd Place */}
                     {currentRanker === 2 && (
                         <motion.div
-                            initial={{ x: 300, opacity: 0 }}
+                            initial={{ x: 50, opacity: 0 }}
                             animate={{ x: 100, opacity: 1 }}
                             transition={{ duration: 1 }}
                             className="text-center"
@@ -59,9 +59,10 @@ export default function Leaderboard() {
                         >
                             <div className="bg-gray-800 p-4 rounded-lg shadow-md">
                                 <img src="/images/Questionimages.png" alt="3rd Rank" className="w-24 h-24 mx-auto rounded-full border-4 border-green-400" />
-                                <p className="text-green-400 text-lg mt-2">Charlie</p>
-                                <p className="text-green-400 text-2xl font-bold">Rank 3</p>
+
                             </div>
+                            <p className="text-green-400 text-lg mt-2">Charlie</p>
+                            <p className="text-green-400 text-2xl font-bold">Rank 3</p>
                         </motion.div>
                     )}
 
@@ -76,9 +77,10 @@ export default function Leaderboard() {
                         >
                             <div className="bg-gray-800 p-4 rounded-lg shadow-md">
                                 <img src="/images/Questionimages.png" alt="2nd Rank" className=" sm:w-24 sm:h-24 w-24 h-24 mx-auto rounded-full border-4 border-sky-300" />
-                                <p className="text-sky-300 text-lg mt-2">Bob</p>
-                                <p className="text-sky-300 text-2xl font-bold">Rank 2</p>
+
                             </div>
+                            <p className="text-sky-300 text-lg mt-2">Bob</p>
+                            <p className="text-sky-300 text-2xl font-bold">Rank 2</p>
                         </motion.div>
                     )}
 
@@ -86,7 +88,7 @@ export default function Leaderboard() {
                     {currentRanker === 0 && (
                         <motion.div
                             initial={{ y: -500, opacity: 0 }}
-                            animate={{ y: 100, opacity: 1 }}
+                            animate={{ y: 50, opacity: 1 }}
                             transition={{ duration: 1 }}
                             className="text-center"
                             style={{ zIndex: 10 }}
@@ -96,15 +98,16 @@ export default function Leaderboard() {
                                     <span className="text-yellow-400 text-6xl">👑</span>
                                 </div>
                                 <img src="/images/Questionimages.png" alt="1st Rank" className="w-32 h-32 mx-auto rounded-full border-4 border-yellow-500" />
-                                <p className="text-yellow-500 text-lg mt-2">Alice</p>
-                                <p className="text-yellow-500 text-2xl font-bold">Rank 1</p>
+
                             </div>
+                            <p className="text-yellow-500 text-lg ">Alice</p>
+                            <p className="text-yellow-500 text-2xl font-bold">Rank 1</p>
                         </motion.div>
                     )}
                 </div>
 
                 {/* showing for all */}
-                <div className="relative flex justify-between items-end space-x-16">
+                <div className="relative flex justify-between items-end space-x-5">
                     {/* 3rd Place */}
                     {currentRanker === 3 && (
                         <>
@@ -116,11 +119,12 @@ export default function Leaderboard() {
                                 className="text-center"
                                 style={{ zIndex: 10 }}
                             >
-                                <div className="bg-gray-800 p-4 rounded-lg shadow-md">
+                                <div className="bg-gray-800 p-2 rounded-lg shadow-md">
                                     <img src="/images/Questionimages.png" alt="2nd Rank" className="w-20 h-20 mx-auto rounded-full border-4 border-sky-300" />
-                                    <p className="text-sky-300 text-lg mt-2">Bob</p>
-                                    <p className="text-sky-300 text-2xl font-bold">Rank 2</p>
+
                                 </div>
+                                <p className="text-sky-300 text-lg mt-2">Bob</p>
+                                <p className="text-sky-300 text-2xl font-bold">Rank 2</p>
                             </motion.div>
 
                             {/* 1st Place */}
@@ -131,14 +135,15 @@ export default function Leaderboard() {
                                 className="text-center"
                                 style={{ zIndex: 10 }}
                             >
-                                <div className="bg-gray-800 p-4 rounded-lg shadow-lg relative" style={{ transform: 'translateY(-15%)' }}>
+                                <div className="bg-gray-800 p-2 rounded-lg shadow-lg relative" style={{ transform: 'translateY(-15%)' }}>
                                     <div className="absolute -top-10 left-1/2 transform -translate-x-1/2">
                                         <span className="text-yellow-400 text-6xl">👑</span>
                                     </div>
-                                    <img src="/images/Questionimages.png" alt="1st Rank" className="w-28 h-28 mx-auto rounded-full border-4 border-yellow-500" />
-                                    <p className="text-yellow-500 text-lg mt-2">Alice</p>
-                                    <p className="text-yellow-500 text-2xl font-bold">Rank 1</p>
+                                    <img src="/images/Questionimages.png" alt="1st Rank" className="w-25 h-25 mx-auto rounded-full border-4 border-yellow-500" />
+
                                 </div>
+                                <p className="text-yellow-500 text-lg mt-2">Alice</p>
+                                <p className="text-yellow-500 text-2xl font-bold">Rank 1</p>
                             </motion.div>
 
 
@@ -151,9 +156,10 @@ export default function Leaderboard() {
                             >
                                 <div className="bg-gray-800 p-2 rounded-lg shadow-md">
                                     <img src="/images/Questionimages.png" alt="3rd Rank" className="w-20 h-20 mx-auto rounded-full border-4 border-green-400" />
-                                    <p className="text-green-400 text-lg mt-2">Charlie</p>
-                                    <p className="text-green-400 text-2xl font-bold">Rank 3</p>
+
                                 </div>
+                                <p className="text-green-400 text-lg mt-2">Charlie</p>
+                                <p className="text-green-400 text-2xl font-bold">Rank 3</p>
                             </motion.div>
 
 
@@ -172,7 +178,7 @@ export default function Leaderboard() {
                 {/* Display all rankers in a list */}
                 {allRankersVisible && (
                     <div className="mt-8 w-full max-w-md">
-                        <h2 className="text-2xl font-bold">All Rankers</h2>
+                        <h2 className="text-2xl font-bold text-gray-500">All Rankers</h2>
                         <ul className="space-y-2 mt-4">
                             {leaderboardData.map((ranker) => (
                                 <li key={ranker.rank} className="flex items-center justify-between p-2 bg-white shadow rounded">
@@ -183,6 +189,7 @@ export default function Leaderboard() {
                         </ul>
                     </div>
                 )}
+                <button className='btn text-gray-500 mt-2'>View More</button>
             </div>
         </>
     );

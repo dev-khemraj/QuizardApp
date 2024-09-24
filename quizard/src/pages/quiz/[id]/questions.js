@@ -112,7 +112,7 @@ const QuizQuestions = ({ quiz }) => {
                         <h1 className="absolute left-1/2 transform -translate-x-1/2 bg-purple-600 text-white py-2 px-4 rounded-full text-lg font-semibold">
                             Time left: {timeLeft}s
                         </h1>
-                        
+
                     </div>
                     <h2 className="text-xl font-semibold mt-14 mb-6">{`Question ${currentQuestionIndex + 1} of ${quiz?.questions.length}`}</h2>
                     <div
@@ -173,7 +173,7 @@ const QuizQuestions = ({ quiz }) => {
 
     @keyframes slideIn {
         from {
-            transform: translateX(100%); /* Off-screen right */
+            transform: translateX(0%); /* Off-screen right */
         }
         to {
             transform: translateX(0); /* End at center */

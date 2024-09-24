@@ -1,3 +1,4 @@
+import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import { useRouter } from "next/router";
 
@@ -132,6 +133,7 @@ const QuizResults = () => {
                     </button>
                 </div>
             </div>
+            <Footer />
         </>
     );
 };
