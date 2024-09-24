@@ -8,7 +8,7 @@ const QuizResults = () => {
     const router = useRouter();
 
     const handleShareScore = () => {
-        router.push('/share-score'); // Replace with your actual route
+        router.push('#'); // Replace with your actual route
     };
 
     const handleReviewQuestions = () => {

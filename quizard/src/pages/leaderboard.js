@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import ConfettiExplosion from 'react-confetti-explosion';
 import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 
 const leaderboardData = [
     { name: 'Alice', image: '/images/Questionimages.png', rank: 1 },
@@ -191,6 +192,7 @@ export default function Leaderboard() {
                 )}
                 <button className='btn text-gray-500 mt-2'>View More</button>
             </div>
+            <Footer />
         </>
     );
 }
